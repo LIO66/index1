@@ -22,15 +22,15 @@
 
 }
 .pimg1{
-	background-image:url('../img/jawa1.jpg'); 
+	background-image:url('../jawa1.jpg'); 
 	min-height:600px;
 }
 .pimg2{
-	background-image:url('../img/jawa2.jpeg'); 
+	background-image:url('../jawa2.jpeg'); 
 	min-height:400px;
 }
 .pimg3{
-	background-image:url('../img/jawa3.jpg'); 
+	background-image:url('../jawa3.jpg'); 
 	min-height:400px;
 }
 .section{
